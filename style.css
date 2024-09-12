@@ -1,0 +1,23 @@
+.menu {
+    background-color:  #e2ded2;
+}
+
+.logo {
+    max-width: 100px;
+}
+
+.infos {
+    background-color: #5c5545;
+}
+
+.margem {
+    margin-top: 20px;
+}
+
+.botao {
+    background-color: #885e45;
+}
+
+.link {
+    color:#885e45;
+}
